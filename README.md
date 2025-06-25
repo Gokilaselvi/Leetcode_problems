@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -19,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
