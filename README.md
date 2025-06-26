@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
