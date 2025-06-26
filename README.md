@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [2235-capitalize-the-title](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2235-capitalize-the-title) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0182-duplicate-emails) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
