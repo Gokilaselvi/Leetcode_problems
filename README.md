@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2235-capitalize-the-title) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
