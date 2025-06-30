@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
