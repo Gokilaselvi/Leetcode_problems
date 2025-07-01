@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2235-capitalize-the-title) |
+| [3617-find-the-original-typed-string-i](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
