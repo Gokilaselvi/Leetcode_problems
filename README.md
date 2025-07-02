@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0389-find-the-difference) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Database
 |  |
 | ------- |
