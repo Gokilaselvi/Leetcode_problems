@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0409-longest-palindrome) |
+| [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2235-capitalize-the-title) |
 | [3617-find-the-original-typed-string-i](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
