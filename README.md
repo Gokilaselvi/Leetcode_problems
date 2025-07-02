@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0189-rotate-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
