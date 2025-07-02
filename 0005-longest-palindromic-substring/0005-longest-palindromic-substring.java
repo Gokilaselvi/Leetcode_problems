@@ -1,31 +1,27 @@
+import java.util.*;
 class Solution {
     public String longestPalindrome(String s) {
         int len= s.length();
         if (s == null ||len == 0) {
             return "";
         }
-        if(len==1)return s;
-         String longpalin="";
-         for(int i=0;i<len-1;i++){
-            for(int j=i;j<len;j++){
-                String sub=s.substring(i,j+1);
-                if(reverse(sub)&&sub.length()>longpalin.length()){
-                    longpalin=sub;
-                }
+        int start=0;int end=0;
+        for(int i=0;i<len-1;i++){
+            int len1=check(s,i,i);
+            int len2=check(s,i,i+1);
+            int maxlen=Math.max(len1,len2);
+            if(maxlen>end-start){
+                start=i-(maxlen-1)/2;
+                end=i+maxlen/2;
             }
-         }
-         
-        return longpalin;
-    }  
-    public boolean reverse(String sub){
-            int l=0;
-            int r=sub.length()-1;
-            while(l<r){
-                if(sub.charAt(l)!=sub.charAt(r))return false;
-                l++;
-                r--;
-            }
-            return true;
-                
+        } 
+        return s.substring(start,end+1)    ;  
          }  
+         public int check(String s,int left,int right){
+            while(left>=0 && right<s.length()&& s.charAt(left)==s.charAt(right) ){
+                left--;
+                right++;
+            }
+            return right-left-1;
+         }
 }
