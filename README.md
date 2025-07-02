@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
