@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
