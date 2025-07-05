@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
@@ -134,5 +136,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
