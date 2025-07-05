@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
