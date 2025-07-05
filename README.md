@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/0409-longest-palindrome) |
 | [2128-reverse-prefix-of-word](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2235-capitalize-the-title) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Gokilaselvi/Leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
