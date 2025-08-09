@@ -1,10 +1,11 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int sqrt=(int)Math.sqrt(n)+2;
-        int pow=0;
-        while(pow<=sqrt){
-         if(n==Math.pow(2,pow))return true;
-         pow++;
+        if(n<=0)return false;
+        else if(n==1)return true;
+        int ans=1;
+        for(int i=1;i<=30;i++){
+            ans*=2;
+         if(ans==n)return true;
         }
         return false;
     }
