@@ -5,9 +5,7 @@ class Solution {
             set.add(i);
         }int count=0;
         for(int i:set){
-            if(set.contains(i+diff)&& set.contains(i+2*diff)){
-                count++;
-            }
+            if(set.contains(i+diff)&& set.contains(i+2*diff))count++;
         }return count;
     }
 }
