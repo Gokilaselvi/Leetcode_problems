@@ -5,7 +5,8 @@ class Solution {
         for(int i=0;i<len;i++){
             if(s.charAt(i)==letter){
                 freq++;
-        }}System.out.print(freq);
-        return ((freq*100)/len);
+        }}
+         int ans=((freq*100)/len);
+         return ans;
     }
 }
