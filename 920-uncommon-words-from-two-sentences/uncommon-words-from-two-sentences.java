@@ -1,29 +1,29 @@
 class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
-     List<String>list=new ArrayList<>();
-     for(String s:s1.split(" ")){
-     list.add(s);
-    }for(String s:s2.split(" ")){
-     list.add(s);
-    }
-    Collections.sort(list);
-    List<String>arr=new ArrayList<>();
-    int count;
-    int len=list.size();
-    String str;
-    for(int i=0;i<len;i++){
-        count=0;
-        str=list.get(i);
-        for(int j=i+1;j<len;j++){
-            if(str.equals(list.get(j))){
-            count++;
-            }
-        }i+=count;
-        if(count<1){
-            arr.add(str);
-        }
-    }//System.out.print(list);
-    String [] arr1=arr.toArray(new String[arr.size()]);
-    return arr1;
+        Set<String> s1Words = new HashSet<>();
+        Set<String> s2Words = new HashSet<>();
+        Set<String> removedWords = new HashSet<>();
+        String[] s1Split = s1.split(" ");
+        String[] s2Split = s2.split(" ");
+
+        for(String s : s1Split)
+            if(!s1Words.add(s))
+                removedWords.add(s);
+
+        for(String s : s2Split)
+            if(!s2Words.add(s))
+                removedWords.add(s);
+        
+        List<String> result = new ArrayList<>();
+
+        for(String s : s1Split)
+            if(!s2Words.contains(s) && !removedWords.contains(s))
+                result.add(s);
+
+        for(String s : s2Split)
+            if(!s1Words.contains(s) && !removedWords.contains(s))
+                result.add(s);
+        
+        return result.toArray(new String[0]);
     }
 }
