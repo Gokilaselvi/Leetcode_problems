@@ -1,8 +1,10 @@
 class Solution {
     public int sumOfMultiples(int n) {
         int sum=0;
-        for(int i=1;i<=n;i++){
+        int i=1;
+        while(i<=n){
             if(i%7==0 ||i%3==0 ||i%5==0)sum+=i;
+            i++;
         }return sum;
     }
 }
