@@ -2,9 +2,9 @@ class Solution {
     public boolean judgeCircle(String moves) {
         int [] farr=new int [26];
         
-        char c;
-        for(int i=0;i<moves.length();i++){
-            c=moves.charAt(i);
+      //  char c;
+        for(char c:moves.toCharArray()){
+            //c=moves.charAt(i);
             farr[c-'A']++;
         }
         int u=farr[20];
