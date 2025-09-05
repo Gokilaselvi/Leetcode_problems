@@ -5,7 +5,9 @@ class Solution {
         int d=0;
         int l=0;
         int r=0;
-        for(char c:moves.toCharArray()){
+        char c;
+        for(int i=0;i<moves.length();i++){
+            c=moves.charAt(i);
             if(c=='U')u++;
             else if(c=='D')d++;
             else if(c=='L')l++;
