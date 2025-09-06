@@ -1,10 +1,10 @@
 class Solution {
     public int[] decode(int[] encoded, int first) {
-        int len=encoded.length;
-        int [] arr=new int [len+1];
+        int len=encoded.length+1;
+        int [] arr=new int [len];
         arr[0]=first;
-        //int ind=1;
-        for(int i=0;i<len;i++ ){
+       
+        for(int i=0;i<len-1;i++ ){
             arr[i+1]=encoded[i]^arr[i];
            
         }
