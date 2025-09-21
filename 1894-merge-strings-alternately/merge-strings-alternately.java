@@ -4,15 +4,15 @@ class Solution {
         int len2=word2.length();
         int i=0;
         int j=0;
-        String res="";
+        StringBuilder  res= new StringBuilder();
         while(i!=len1 && j!=len2){
-            res+=word1.charAt(i);
+            res.append(word1.charAt(i));
             i++;
-            res+=word2.charAt(j);
+            res.append(word2.charAt(j));
             j++;
         }
-        res+=word1.substring(i,len1);
-        res+=word2.substring(j,len2);
-        return res;
+        res.append(word1.substring(i,len1));
+        res.append(word2.substring(j,len2));
+        return res.toString();
     }
 }
