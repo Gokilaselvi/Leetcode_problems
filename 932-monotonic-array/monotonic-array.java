@@ -7,10 +7,10 @@ class Solution {
             if(nums[i]>nums[i+1])increasing=true;
             if(nums[i]<nums[i+1])decreasing=true;
         }
-        if(increasing && decreasing)return false;
+        return (!increasing || !decreasing);
 
        
         
-       return true; 
+       
     }
 }
