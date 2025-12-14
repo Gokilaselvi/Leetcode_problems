@@ -7,7 +7,7 @@ class Solution {
         
         for(int i=0;i<row;i++){
             for(int j=0;j<nums[i].length;j++){
-               // System.out.println(i+" "+j);
+              
                int num=nums[i][j];
                 freq[num]++;
             }
