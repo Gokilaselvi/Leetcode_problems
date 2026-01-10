@@ -14,7 +14,7 @@ class Solution {
         int val=1;
         for(int i=len-1;i>=0;i--){
             if(val%3!=0){
-                System.out.println(cost[i]);
+               
                 candiesCost+=cost[i];
                 val++;
             }
