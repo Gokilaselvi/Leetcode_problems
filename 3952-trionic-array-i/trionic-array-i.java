@@ -19,11 +19,9 @@ class Solution {
       boolean trionic=true;
       for(int i=q;i<len-1;i++) {
         if(nums[i]>=nums[i+1]){
-            trionic=false;
-            break;
+            return false;
         }
       }
-      System.out.println(p+" "+q);
       if(p==0 || p== q || q==len-1)return false;
       return trionic;
     }
