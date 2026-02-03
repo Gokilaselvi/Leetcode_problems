@@ -16,15 +16,15 @@ class Solution {
             break;
         }
       } 
-      boolean triple=true;
+      boolean trionic=true;
       for(int i=q;i<len-1;i++) {
         if(nums[i]>=nums[i+1]){
-            triple=false;
+            trionic=false;
             break;
         }
       }
       System.out.println(p+" "+q);
       if(p==0 || p== q || q==len-1)return false;
-      return triple;
+      return trionic;
     }
 }
